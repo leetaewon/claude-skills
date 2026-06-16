@@ -28,7 +28,7 @@ repozer/
 
 ## 설치 방법
 
-1. [`repozer.skill`](https://raw.githubusercontent.com/leetaewon/claude-skills/main/repozer/repozer.skill) 파일 다운로드
+1. [`repozer.skill`](https://github.com/leetaewon/claude-skills/raw/refs/heads/main/repozer/repozer.skill) 파일 다운로드
 2. 사용자 지정 → 스킬 만들기 → 스킬 업로드 화면에서 `.skill` 파일 업로드
 
 ---
@@ -53,8 +53,3 @@ repozer/
 현재 버전: `2026-06-16-001`  
 히스토리: [changelog.md](./changelog.md)
 
----
-
-## 라이선스
-
-[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.ko)

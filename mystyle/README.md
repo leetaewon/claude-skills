@@ -38,7 +38,7 @@ mystyle/
 
 ## 설치 방법
 
-1. [`mystyle.skill`](https://raw.githubusercontent.com/leetaewon/claude-skills/main/mystyle/mystyle.skill) 파일 다운로드
+1. [`mystyle.skill`](https://github.com/leetaewon/claude-skills/raw/refs/heads/main/mystyle/mystyle.skill) 파일 다운로드
 2. 사용자 지정 → 스킬 만들기 → 스킬 업로드 화면에서 `.skill` 파일 업로드
 
 ---
