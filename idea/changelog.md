@@ -2,7 +2,7 @@
 
 > 제작자: 이태원쌤 (leetaewon.com)  
 > 스킬 저장소: github.com/leetaewon/claude-skills  
-> 라이선스: MIT
+> 라이선스: CC BY-NC 4.0
 
 ---
 

@@ -48,3 +48,9 @@ idea/
 
 현재 버전: `2026-06-01-001`  
 히스토리: [changelog.md](./changelog.md)
+
+---
+
+## 라이선스
+
+[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.ko)
